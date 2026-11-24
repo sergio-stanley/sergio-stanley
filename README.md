@@ -4,9 +4,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou concluinte de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software.
+Concluinte de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de software.
 
-Busco minha primeira oportunidade profissional na área de tecnologia, desenvolvendo projetos práticos e aprimorando continuamente meus conhecimentos.
+Desenvolvi e publiquei o Viva Bem, uma aplicação web interativa em Python, com arquitetura modular, testes automatizados e deploy na Vercel.
+
+Busco minha primeira oportunidade profissional como desenvolvedor de software, com interesse em desenvolvimento Back-end e Full Stack.
 
 - 📍 Belém, Pará — Brasil
 - 🎓 Análise e Desenvolvimento de Sistemas
